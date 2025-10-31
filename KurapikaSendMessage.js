@@ -47,6 +47,8 @@ sendScript(`
 🎸🎸🎸🎶🎶🎶
 
 
+https://youtu.be/tK-d2LJlaaQ?si=JUCi0ZdHsxAsnnvl
+
 
 Kurapika está se afogando
 
