@@ -16,7 +16,7 @@ O script `KurapikaSendMessage.js` e `SherekSendMessage.js` foi criado para fins 
 
 O método de uso analisado envolve os seguintes passos:
 
-1.  Abrir o arquivo `KurapikaSendMessage.js` (ex: [Clique aqui para ver o código do script](KurapikaSendMessage.js) ou [do script](SherekSendMessage.js)).
+1.  Abrir o arquivo `KurapikaSendMessage.js` (ex: [Clique aqui para ver o código do script](KurapikaSendMessage.js) ou `SherekSendMessage.js` [código do script](SherekSendMessage.js)).
 2.  Copiar o conteúdo do script.
 3.  No WhatsApp Web, abrir o console do desenvolvedor no navegador.
 4.  Colar o código no console e apertar Enter.
