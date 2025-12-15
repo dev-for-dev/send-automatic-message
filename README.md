@@ -4,17 +4,19 @@ Um script para fins de estudo, demonstrando a automação de envio de mensagens 
 
 **Autor do repositório:** dev-for-dev
 
-**Arquivo:** `KurapikaSendMessage.js`
+**Arquivo 1:** `KurapikaSendMessage.js`
+
+**Arquivo 2:** `SherekSendMessage.js`
 
 ## Descrição
 
-O script `KurapikaSendMessage.js` foi criado para fins acadêmicos, com o objetivo de analisar como funcionam scripts de automação e por que eles falham. O código tenta enviar o texto da música "Hunting For Your Dream" linha por linha em uma conversa aberta do WhatsApp Web.
+O script `KurapikaSendMessage.js` e `SherekSendMessage.js` foi criado para fins acadêmicos, com o objetivo de analisar como funcionam scripts de automação e por que eles falham. O código tenta enviar o texto da música "Hunting For Your Dream" linha por linha em uma conversa aberta do WhatsApp Web.
 
 ## Utilização (Demonstração Teórica)
 
 O método de uso analisado envolve os seguintes passos:
 
-1.  Abrir o arquivo `KurapikaSendMessage.js` (ex: [Clique aqui para ver o código do script](KurapikaSendMessage.js)).
+1.  Abrir o arquivo `KurapikaSendMessage.js` (ex: [Clique aqui para ver o código do script](KurapikaSendMessage.js) ou [do script](SherekSendMessage.js)).
 2.  Copiar o conteúdo do script.
 3.  No WhatsApp Web, abrir o console do desenvolvedor no navegador.
 4.  Colar o código no console e apertar Enter.
