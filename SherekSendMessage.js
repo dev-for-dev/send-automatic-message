@@ -29,7 +29,7 @@ setTimeout(() => {
 }, 100);
 
 
-if(lines.indexOf(line) !== lines.length - 1) await new Promise(resolve => setTimeout(resolve, 3000));
+if(lines.indexOf(line) !== lines.length - 1) await new Promise(resolve => setTimeout(resolve, 250));
 
 }
 
